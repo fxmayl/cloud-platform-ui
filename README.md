@@ -1,3 +1,5 @@
+## 原始git地址:https://gitee.com/geek_qi/cloud-platform-ui.git
+
 # AG-Admin-v2-UI 
 ## 准备工作
 - node.js环境（npm包管理器）
